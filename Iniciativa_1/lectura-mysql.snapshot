@@ -261,8 +261,8 @@
           "name" : "Ejecuta la Query",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 1118.8984375,
-            "y" : 116.99087524414062
+            "x" : 1136.052001953125,
+            "y" : 123.58840942382812
           },
           "properties" : {
             "esql-max-rows" : "0",
@@ -430,8 +430,7 @@
         "remoteProcessGroups" : [ ],
         "variables" : {
           "ruta-repositorios" : "/home/ec2-user/nifi/repositorios",
-          "repo" : "petersen",
-          "usuario" : "bmasciarelli"
+          "repo" : "petersen"
         }
       }
     }
