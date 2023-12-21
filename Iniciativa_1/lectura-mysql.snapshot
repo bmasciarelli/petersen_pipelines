@@ -261,8 +261,8 @@
           "name" : "Ejecuta la Query",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 1136.052001953125,
-            "y" : 123.58840942382812
+            "x" : 1121.537353515625,
+            "y" : 120.94940185546875
           },
           "properties" : {
             "esql-max-rows" : "0",
